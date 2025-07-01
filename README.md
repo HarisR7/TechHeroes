@@ -12,7 +12,7 @@ bootstrap-marketing-site/
 └── js/
     └── script.js
 
-    📄 File Breakdown:
+Files:
 1. index.html
 Clean, semantic HTML structure
 Bootstrap 5 components (navbar, cards, forms)
